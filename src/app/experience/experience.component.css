@@ -1,0 +1,21 @@
+.experience-container {
+    padding: 20px;
+  }
+  
+  .experience-container h2 {
+    color: #457b9d;
+    text-align: center;
+  }
+  
+  .experience-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .experience-container li {
+    background: #e9c46a;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
